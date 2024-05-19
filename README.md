@@ -1,4 +1,5 @@
-# Assignment May 2024 Data Science Syntra :Tinne Mertens, Philippe Giorgino and Samuel Demin
+# Assignment May 2024 Data Science Syntra: Tinne Mertens, Philippe Giorgino and Samuel Demin
+
 # github: 
 
 # Deel 1: Productieproces
