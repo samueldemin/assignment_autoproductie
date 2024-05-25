@@ -36,7 +36,7 @@ The assignment questions and answers are provided within the notebook.
 ## Authors
 
 * **Samuel Demin** 
-* **Philippe Georgino** 
+* **Philippe Giorgino** 
 * **Tinne Mertens** 
 
 ## License
