@@ -23,7 +23,7 @@ A step by step explanation to get the provided notebook and environment running:
 4. Activate the new environment: `conda activate autoproductie`
 
 ## Usage
-Open the Jupyter notebook: `jupyter notebook autoproductie.ipynb`
+Open the Jupyter notebook: `jupyter notebook notebooks/autoproductie.ipynb`
 
 This will open the Jupyter Notebook. From there, you can open the notebook and run all cells to load and preprocess the data. 
 The assignment questions and answers are provided within the notebook.
